@@ -1,0 +1,39 @@
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\bin\Release\計算機.exe
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\bin\Release\計算機.pdb
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\obj\x86\Release\計算機.Form1.resources
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\obj\x86\Release\計算機.Properties.Resources.resources
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\obj\x86\Release\計算機.csproj.GenerateResource.Cache
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\obj\x86\Release\計算機.exe
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機\計算機\obj\x86\Release\計算機.pdb
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\bin\Release\計算機.exe
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\bin\Release\計算機.pdb
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\obj\x86\Release\計算機.Form1.resources
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\obj\x86\Release\計算機.Properties.Resources.resources
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\obj\x86\Release\計算機.csproj.GenerateResource.Cache
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\obj\x86\Release\計算機.exe
+C:\Users\Terry\Documents\Visual Studio 2010\Projects\計算機 - 20151228\計算機\obj\x86\Release\計算機.pdb
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\bin\Release\計算機.exe
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\bin\Release\計算機.pdb
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\計算機.CCD_Calc.resources
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\計算機.Properties.Resources.resources
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\計算機.exe
+C:\Users\jeff.lin\Desktop\計算機 - 20170117 - 複製\計算機\obj\x86\Release\計算機.pdb
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\計算機.exe
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\計算機.pdb
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\bin\Release\計算機.exe
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\bin\Release\計算機.pdb
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\計算機.CCD_Calc.resources
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\計算機.Properties.Resources.resources
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jeff.lin\Desktop\計算機 - 20170117_3\計算機\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\bin\Release\計算機.exe
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\bin\Release\計算機.pdb
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\obj\x86\Release\計算機.CCD_Calc.resources
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\obj\x86\Release\計算機.Properties.Resources.resources
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\obj\x86\Release\計算機.csproj.GenerateResource.Cache
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\obj\x86\Release\計算機.exe
+C:\Users\jeff.lin\Documents\Visual Studio 2010\Projects\計算機 - 20170210\計算機\obj\x86\Release\計算機.pdb
