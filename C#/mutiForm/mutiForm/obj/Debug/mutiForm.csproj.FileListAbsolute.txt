@@ -1,0 +1,11 @@
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\bin\Debug\mutiForm.exe.config
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\bin\Debug\mutiForm.exe
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\bin\Debug\mutiForm.pdb
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.csprojResolveAssemblyReference.cache
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.FrmMain.resources
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.FrmStart.resources
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.Properties.Resources.resources
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.csproj.GenerateResource.Cache
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.exe
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.pdb
+c:\users\soulkai\documents\visual studio 2015\Projects\mutiForm\mutiForm\obj\Debug\mutiForm.FrmControl_1.resources

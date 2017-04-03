@@ -1,0 +1,9 @@
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\bin\Debug\easyExample.exe.config
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\bin\Debug\easyExample.exe
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\bin\Debug\easyExample.pdb
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.csprojResolveAssemblyReference.cache
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.Form1.resources
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.Properties.Resources.resources
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.csproj.GenerateResource.Cache
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.exe
+c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.pdb
