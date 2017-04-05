@@ -7,3 +7,12 @@ c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\o
 c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.csproj.GenerateResource.Cache
 c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.exe
 c:\users\soulkai\documents\visual studio 2015\Projects\easyExample\easyExample\obj\Debug\easyExample.pdb
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\bin\Debug\easyExample.exe.config
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.exe
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.pdb
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.csprojResolveAssemblyReference.cache
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.Form1.resources
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.Properties.Resources.resources
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\obj\Debug\easyExample.csproj.GenerateResource.Cache
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\bin\Debug\easyExample.exe
+C:\Users\jeff.lin\Documents\Soulkai\C#\easyExample\easyExample\bin\Debug\easyExample.pdb
