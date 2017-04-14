@@ -7,3 +7,12 @@ c:\users\soulkai\documents\visual studio 2015\Projects\ImageTest\ImageTest\obj\D
 c:\users\soulkai\documents\visual studio 2015\Projects\ImageTest\ImageTest\obj\Debug\ImageTest.csproj.GenerateResource.Cache
 c:\users\soulkai\documents\visual studio 2015\Projects\ImageTest\ImageTest\obj\Debug\ImageTest.exe
 c:\users\soulkai\documents\visual studio 2015\Projects\ImageTest\ImageTest\obj\Debug\ImageTest.pdb
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\bin\Debug\ImageTest.exe.config
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.exe
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.pdb
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\bin\Debug\ImageTest.exe
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\bin\Debug\ImageTest.pdb
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.csprojResolveAssemblyReference.cache
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.Form1.resources
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.Properties.Resources.resources
+C:\Users\jeff.lin\Documents\Soulkai\C#\ImageTest\ImageTest\obj\Debug\ImageTest.csproj.GenerateResource.Cache

@@ -19,6 +19,7 @@ namespace ImageTest
             InitializeComponent();
         }
         Graphics m_graphics;
+        
         Image img = new Bitmap(@"d:\target.png");
         private BufferedGraphicsContext m_CurrentContext;
         private BufferedGraphics m_Graphics;
