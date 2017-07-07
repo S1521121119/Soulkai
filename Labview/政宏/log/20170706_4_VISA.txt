@@ -1,0 +1,20 @@
+20170704
+Support>VISA
+-----
+    VISA設定，RS232的控制
+
+CRC Check
+Cyclic Redundancy Check 循環冗餘核對碼
+
+VISA Initialize
+    初始化
+
+VISA Write and Read
+    讀寫
+ 
+VISA Close
+    關閉
+
+VISA.lvlib
+
+Checksum.ctl
