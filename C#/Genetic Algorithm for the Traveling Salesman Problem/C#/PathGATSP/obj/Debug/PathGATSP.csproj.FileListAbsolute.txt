@@ -16,3 +16,12 @@ C:\Users\jeff.lin\Desktop\Genetic Algorithm for the Traveling Salesman Problem\C
 C:\Users\jeff.lin\Desktop\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.MainForm.resources
 C:\Users\jeff.lin\Desktop\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
 C:\Users\jeff.lin\Desktop\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\bin\Debug\PathGATSP.exe
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\bin\Debug\PathGATSP.pdb
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csprojResolveAssemblyReference.cache
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.MainForm.resources
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.exe
+C:\Users\jeff.lin.MINAIK\Documents\Soulkai\C#\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.pdb
