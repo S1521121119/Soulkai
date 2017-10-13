@@ -4,3 +4,11 @@ FGV:99FF33
 Function:FFFF00
 SubVI:FF00FF
 VI:99CCCC
+
+
+Variant		102 0 102
+Boolean		0 102 0
+DBL		255 102 0 
+I32		0 0 255
+Path		0 102 102
+String		255 0 255
